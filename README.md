@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
