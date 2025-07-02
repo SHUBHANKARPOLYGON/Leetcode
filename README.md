@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
