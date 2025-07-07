@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0898-transpose-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
