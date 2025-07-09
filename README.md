@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0898-transpose-matrix) |
 ## Trie
 |  |
