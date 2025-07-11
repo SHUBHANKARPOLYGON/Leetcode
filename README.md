@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
