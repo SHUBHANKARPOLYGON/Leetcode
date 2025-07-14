@@ -101,8 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
