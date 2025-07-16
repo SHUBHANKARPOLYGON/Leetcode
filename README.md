@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -117,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
