@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
