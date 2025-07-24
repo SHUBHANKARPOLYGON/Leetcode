@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0898-transpose-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
