@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0898-transpose-matrix) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
