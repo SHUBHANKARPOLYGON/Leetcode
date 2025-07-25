@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
