@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
