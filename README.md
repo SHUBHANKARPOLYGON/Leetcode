@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
@@ -183,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
