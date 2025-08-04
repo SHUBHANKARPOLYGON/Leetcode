@@ -172,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
