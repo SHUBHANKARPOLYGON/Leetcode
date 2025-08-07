@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0724-find-pivot-index](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0792-binary-search) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0069-sqrtx) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SHUBHANKARPOLYGON/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
